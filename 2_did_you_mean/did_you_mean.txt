@@ -1,0 +1,10 @@
+En primer lugar he comprobado el número máximo de repeticiones de una letra en todas las palabras. He llegado a la conclusión que en ningún caso se repite más de 26 veces una letra en la misma palabra, por lo que he decidido montar un hash cuyas claves son el número de veces que aparece cada letra en la palabra (codificado como un carácter de la a a la z, ya que con un dígito decimal no basta). Por ejemplo:
+
+Valor:
+  => "perro"
+
+Clave:
+  => "aaaabaaaaaaaaabbacaaaaaaaa"
+     "abcdefghijklmnopqrstuvwxyz" (referencia)
+
+Así, a partir de la palabra de la que queremos obtener sugerencias obtenemos la clave del hash. Con la clave, obtenemos el array de palabras sugeridas y las mostramos.

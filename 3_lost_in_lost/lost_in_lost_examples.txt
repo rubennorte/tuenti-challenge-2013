@@ -1,0 +1,20 @@
+3
+.john gets into the plane<john sees paul at the airport.john tells mia they are going to die>the plane crashes
+.john gets into the plane<john sees paul at the airport.john tells mia they are going to die>the plane crashes.the plane takes off.mia sees through the window an isolated island<the plane crashes
+.john gets into the plane<john sees paul at the airport.john tells mia they are going to die>the plane crashes.john sees paul at the airport
+
+
+6
+.Daniel, Kate and Miles sing into the wound.Miles and Juliet act along the anethesiologist.Jack and Miles cost on the alcohol.Sun relates from the bra.Frank and Jin deny over the sail.Locke and Locke point about the steam.Rose, Lucia and Ben call below the vacuum.Locke and Jin become after the pantry.Sayid and Frank drink aside the hope.Miles, Jin and Sayid must aside the lasagna.Bernard, Kate and Frank shut among the parcel.Boone dies onto the viscose
+.Desmond and Sayid consist amongst the venezuelan<Juliet and Richard confirm around the meat.Ben and Charlotte state on the step.Claire, Claire and Richard use from the skill.Michael, Eko and Sun remember below the bomb>Ana remembers before the lily.Ben, Ana and Ana drink amidst the security<Ana remembers before the lily.Daniel, Libby and Charlotte enjoy in the samurai.Jin, Miles and Daniel point along the suggestion>Locke hates beyond the ukrainian.Juliet, Hurley and Miles arrange without the dressing<Locke hates beyond the ukrainian.Sun, Michael and Sayid check up the enemy>Hurley and Daniel sort near the wax.Sun matters amongst the energy<Hurley and Daniel sort near the wax.Charlie and Shannon last about the cathedral.Charlie and Sun refuse by the swim
+.Ben, Ben and Bernard write among the skill<Charlie and Miles protect astride the woman.Lucia, Ana and Hurley serve aboard the sagittarius.Vincent, Charlie and Richard pull on the layer>Michael, Vincent and Charlie occur besides the pipe.Michael marks onto the macaroni<Michael, Vincent and Charlie occur besides the pipe.Ben, Vincent and Ben stick under the digger.Frank compares amid the spade>Claire and Boone replace besides the competitor.Ben and Libby appear amid the brush<Claire and Boone replace besides the competitor.Sun and Ben knock down the helen.Desmond and Locke fly on the suede.Michael and Ana cover after the hamburger.Boone, Eko and Charlie stand amid the catamaran.Desmond and Boone help amongst the llama>Ben tends under the viola.Charlie coulds underneath the winter<Ben tends under the viola.Lucia and Michael tell beside the basin>Jin, Claire and Boone complete down the quilt.Charlie, Vincent and Frank recognize on the sweets<Jin, Claire and Boone complete down the quilt
+.Jack, Lucia and Bernard increase toward the driver<Jack and Sayid could onto the bladder.Ana and Jack charge out the sign>Jack delivers into the fruit.Michael gets among the blouse<Jack delivers into the fruit>Boone gets upon the balinese.Desmond, Miles and Charlotte allow above the rotate>Bernard and Ben win by the fire.Frank, Jin and Desmond serve around the titanium<Boone gets upon the balinese.Frank, Sawyer and Libby visit inside the archer.Rose, Locke and Sayid design around the quince<Bernard and Ben win by the fire.Jin and Juliet own on the fiberglass
+.Richard and Charlie finish astride the platinum.Charlotte draws alongside the sociology.Kate points into the yard.Locke, Miles and Claire hurt unto the wrinkle>Libby forgives about the belief.Jack links up the ferry.Bernard, Bernard and Daniel destroy outside the blue<Libby forgives about the belief.Richard and Libby mind aboard the division
+.Libby copys amongst the airship<Ana and Charlie clear below the goose.Shannon explains beneath the maraca>Sun and Vincent regard down the bee.Boone, Libby and Rose watch between the captain<Claire and Michael gain toward the harbor.Hurley and Vincent remove inside the current>Kate, Jin and Jack test at the washer
+
+Line 1 [WRONG] : valid
+Line 2 [WRONG] : valid
+Line 3 [WRONG] : valid
+Line 4  [OK!]  : valid
+Line 5  [OK!]  : valid
+Line 6 [WRONG] : valid
